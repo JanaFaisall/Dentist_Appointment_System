@@ -19,13 +19,7 @@ public class Patient extends Person implements Service {
     public void setAppointment(Appointment[] appointment) {
         this.appointment = appointment;
     }
-
-
-
-    
-    
-    
-    
+ 
     
     @Override
     public void NameOfClass(){
@@ -37,9 +31,7 @@ public class Patient extends Person implements Service {
     public String toString(){
         return super.toString()+"appointment: "+appointment;
     }
-    
-    
-    
+     
     
     @Override
      public void display() {
