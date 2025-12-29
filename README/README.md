@@ -52,5 +52,11 @@ This project was developed collaboratively by a student team as part of a univer
 
 ---
 
-##Images
+## 📸 Screenshots
+
+**Main Menu**  
+![Menu Screenshot](Images/menu.png)
+
+**Graphical User Interface (GUI)**  
+![GUI Screenshot](Images/GUI.png)
 
